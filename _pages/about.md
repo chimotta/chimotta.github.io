@@ -8,6 +8,6 @@ redirect_from:
 ---
 I am a PhD candidate at the University of California, Berkeley, Haas School of Business (BPP group).
 
-I work on topics related to labor and spatial economics.
+My research focuses on labor and spatial economics.
 
 You can contact me at cmotta[at]berkeley[dot]edu.
