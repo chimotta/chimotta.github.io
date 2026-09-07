@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at UC Berkeley in the BPP group (Haas School of Business). I am on the academic job market this year.
+I am a PhD candidate at UC Berkeley in the BPP group (Haas School of Business). **I am on the academic job market this year.**
 
 I work at the intersection of labor and spatial economics. My work combines quasi-experimental designs with large-scale data (administrative and newly collected data) to identify the effects of major policies on individuals, firms, and markets.
 
-You can contact me at cmotta [at] berkeley [dot] edu.
+[Email](mailto:cmotta@berkeley.edu) / [CV](/files/Motta_CV.pdf)
 
 ## Working Papers
 
