@@ -17,8 +17,12 @@
 
     <!-- Title + Year -->
     <h2 class="archive__item-title" itemprop="headline" style="margin-bottom: 0.6em;">
-      <a href="{{ post.paperurl }}">{{ title }}</a>
-      {% if post.date %}
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}">{{ title }}</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+      {% if post.date and post.category != "ongoing" %}
         <span style="font-weight: normal;">({{ post.date | date: "%Y" }})</span>
       {% endif %}
     </h2>
@@ -33,6 +37,14 @@
       <p style="margin-top: 0; margin-bottom: 0.6em;">
         <em>{{ post.note | markdownify | strip_newlines | remove: '<p>' | remove: '</p>' }}</em>
       </p>
+    {% endif %}
+
+    <!-- Abstract (collapsible; add an `abstract:` field to the entry's front matter) -->
+    {% if post.abstract %}
+      <details style="margin-top: 0.2em; margin-bottom: 0.6em;">
+        <summary style="cursor: pointer;"><em>Abstract</em></summary>
+        <div style="margin-top: 0.4em; text-align: justify;">{{ post.abstract | markdownify }}</div>
+      </details>
     {% endif %}
 
   </article>
