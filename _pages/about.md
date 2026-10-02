@@ -25,11 +25,11 @@ My work combines quasi-experimental designs with large-scale data (administrativ
 
 ## Work in Progress
 
+**The Labor Market Effects of Competition: Evidence from the Hudson's Bay Company** (with Lukas Leucht and Davis Kedrosky)
+
 **Monopsony Power Across Firms** (with Sydnee Caldwell, Ingrid Haegele, and Joerg Heining)
 
 **Product and Labor Market Power: Evidence from Firm-to-Firm Networks** (with Eugenia Menaguale)
-
-**The Labor Market Effects of Competition: Evidence from the Hudson's Bay Company** (with Lukas Leucht and Davis Kedrosky)
 
 **Learning, Teaching, and the Diffusion of Ideas** (with Jinci Liu and Dominik Wehr)
 
