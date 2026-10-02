@@ -23,9 +23,9 @@ My work combines quasi-experimental designs with large-scale data (administrativ
 
 ***It is Never too Late*: Educational Television and Human Capital Accumulation** (with Filippo Palomba)
 
-## Work in Progress
-
 **The Labor Market Effects of Competition: Evidence from the Hudson's Bay Company** (with Lukas Leucht and Davis Kedrosky)
+
+## Work in Progress
 
 **Monopsony Power Across Firms** (with Sydnee Caldwell, Ingrid Haegele, and Joerg Heining)
 
