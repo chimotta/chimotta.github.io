@@ -15,7 +15,7 @@ My work combines quasi-experimental designs with large-scale data (administrativ
 
 ## Working Papers
 
-**The Labor Market Effects of Place-Based Policies** (with Federico Cingano)  
+**Place-Based Policies and Labor Rationing** (with Federico Cingano)  
 *Job Market Paper*
 
 **The Cost of Buying American** (with Matilde Bombardini, Andres Gonzalez-Lira, and Bingjing Li)  
@@ -32,3 +32,5 @@ My work combines quasi-experimental designs with large-scale data (administrativ
 **The Labor Market Effects of Competition: Evidence from the Hudson's Bay Company** (with Lukas Leucht and Davis Kedrosky)
 
 **Learning, Teaching, and the Diffusion of Ideas** (with Jinci Liu and Dominik Wehr)
+
+**Knowing the Floor: Jobseekers' Knowledge of Collective Agreements** (with Marina Schwab)
