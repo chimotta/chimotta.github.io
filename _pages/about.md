@@ -30,7 +30,3 @@ My work combines quasi-experimental designs with large-scale data (administrativ
 **Monopsony Power Across Firms** (with Sydnee Caldwell, Ingrid Haegele, and Joerg Heining)
 
 **Product and Labor Market Power: Evidence from Firm-to-Firm Networks** (with Eugenia Menaguale)
-
-**Learning, Teaching, and the Diffusion of Ideas** (with Jinci Liu and Dominik Wehr)
-
-**Knowing the Floor: Jobseekers' Knowledge of Collective Agreements** (with Marina Schwab)
