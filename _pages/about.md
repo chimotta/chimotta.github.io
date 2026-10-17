@@ -21,7 +21,7 @@ My work combines quasi-experimental designs with large-scale data (administrativ
 **The Cost of Buying American** (with Matilde Bombardini, Andres Gonzalez-Lira, and Bingjing Li)  
 *Revise & Resubmit, American Economic Review* — [draft](/files/BAA.pdf)
 
-***It is Never too Late*: Educational Television and Human Capital Accumulation** (with Filippo Palomba)
+***It is Never too Late*** (with Filippo Palomba)
 
 **The Labor Market Effects of Competition: Evidence from the Hudson's Bay Company** (with Lukas Leucht and Davis Kedrosky)
 
