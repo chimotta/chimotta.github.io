@@ -14,6 +14,7 @@ on the academic job market in 2026–27.
 I work on questions in labor economics and spatial economics. I combine quasi-experimental designs with large-scale (administrative and newly collected) data and quantitative economic models to study how firms, workers, and institutions interact in labor markets.
 {: .intro}
 
+**Fields:** Labor Economics, Spatial/Trade  
 [Email](mailto:cmotta@berkeley.edu) / [CV](/files/Motta_CV.pdf)
 
 ## Working Papers
