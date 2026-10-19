@@ -11,7 +11,7 @@ redirect_from:
 on the academic job market in 2026–27.
 {: .intro}
 
-I work on questions in labor economics and spatial economics. I combine quasi-experimental designs with large-scale (administrative and newly collected) data and quantitative economic models to study how firms, workers, and institutions interact in labor markets.
+I work on questions in **labor economics** and **spatial economics**. I combine quasi-experimental designs with large-scale (administrative and newly collected) data and quantitative economic models to study how firms, workers, and institutions interact in labor markets.
 {: .intro}
 
 **Fields:** Labor Economics, Spatial/Trade  
