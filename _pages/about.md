@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at UC Berkeley's Haas&nbsp;School&nbsp;of&nbsp;Business, on the academic job market in 2026–27.
+Welcome! I am a PhD candidate at UC Berkeley's Haas&nbsp;School&nbsp;of&nbsp;Business,  
+on the academic job market in 2026–27.
 {: .intro}
 
-I combine quasi-experimental designs with large-scale (administrative and newly collected) data and quantitative economic models to study how firms, workers, and institutions interact in labor markets.
+I work on questions in labor economics and spatial economics. I combine quasi-experimental designs with large-scale (administrative and newly collected) data and quantitative economic models to study how firms, workers, and institutions interact in labor markets.
 {: .intro}
 
 [Email](mailto:cmotta@berkeley.edu) / [CV](/files/Motta_CV.pdf)
