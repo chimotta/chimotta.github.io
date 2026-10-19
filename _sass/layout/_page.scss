@@ -55,6 +55,11 @@
     border-bottom: 1px solid var(--global-border-color);
   }
 
+  /* homepage intro: even line lengths, no one-word last lines */
+  p.intro {
+    text-wrap: balance;
+  }
+
   p, li, dl {
     font-size: 1em;
   }
