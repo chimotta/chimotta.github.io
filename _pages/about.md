@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at UC Berkeley in the BPP group (Haas School of Business). **I am on the academic job market this year.**
-
-My work combines quasi-experimental designs with large-scale data (administrative and newly collected data) to identify the effects of major policies on individuals, firms, and markets.
+I'm a PhD candidate at UC Berkeley's Haas School of Business, on the academic job market in 2026–27. I combine quasi-experimental designs with large-scale (administrative and newly collected) data and quantitative economic models to study how firms, workers, and institutions interact in labor markets.
 
 [Email](mailto:cmotta@berkeley.edu) / [CV](/files/Motta_CV.pdf)
 
