@@ -419,3 +419,19 @@
     text-align-last: justify;
   }
 }
+
+/* Collapsible paper abstracts on the homepage */
+.page__content details.abstract {
+  margin: 0.2em 0 1em;
+  font-size: 0.9em;
+
+  summary {
+    cursor: pointer;
+    color: var(--global-link-color);
+  }
+
+  p {
+    margin: 0.5em 0 0;
+    text-align: justify;
+  }
+}
