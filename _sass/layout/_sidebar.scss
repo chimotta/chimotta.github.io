@@ -26,6 +26,7 @@
 
   @include breakpoint($large) {
     @include span(3 of 12);
+    padding-right: 2em;           // keeps the larger avatar clear of the text on mid-size screens
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
