@@ -422,7 +422,7 @@
 
 /* Collapsible paper abstracts on the homepage */
 .page__content details.abstract {
-  margin: 0.2em 0 1em;
+  margin: -1.1em 0 1em;         // sits right under the paper's line
   font-size: 0.9em;
 
   summary {
