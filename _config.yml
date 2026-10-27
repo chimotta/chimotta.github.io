@@ -21,7 +21,7 @@ repository               : "chimotta/chimotta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profpic.jpg"
+  avatar           : "headshot.jpg"
   name             : "Chiara Motta"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at UC Berkeley"
