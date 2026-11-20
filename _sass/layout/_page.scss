@@ -435,3 +435,36 @@
     text-align: justify;
   }
 }
+
+/* References block on the homepage (centered, like Federico's site) */
+.page__content .references {
+  margin: 1.8em 0 2em;
+  text-align: center;
+
+  .references__title {
+    margin: 0 0 0.6em;
+    font-size: 0.85em;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--global-link-color);
+  }
+
+  .references__names {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.35em 1.6em;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    a:hover {
+      color: var(--global-link-color);
+    }
+  }
+}
