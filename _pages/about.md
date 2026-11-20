@@ -15,6 +15,7 @@ I work on questions in **labor economics** and **spatial economics**. I combine 
 {: .intro}
 
 **Fields:** Labor Economics, Spatial/Trade  
+**References:** [Matilde Bombardini](mailto:mbombardini@berkeley.edu), [Kirill Borusyak](mailto:k.borusyak@berkeley.edu), [Sydnee Caldwell](mailto:scaldwell@berkeley.edu), [Patrick Kline](mailto:pkline@berkeley.edu), [Benjamin Schoefer](mailto:schoefer@berkeley.edu)  
 [Email](mailto:cmotta@berkeley.edu) / [CV](/files/Motta_CV.pdf)
 
 ## Working Papers
