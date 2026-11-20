@@ -466,5 +466,11 @@
     a:hover {
       color: var(--global-link-color);
     }
+
+    /* forces Kline and Schoefer onto the second line */
+    .references__break {
+      flex-basis: 100%;
+      height: 0;
+    }
   }
 }

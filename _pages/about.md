@@ -23,6 +23,7 @@ I work on questions in **labor economics** and **spatial economics**. I combine 
     <a href="mailto:mbombardini@berkeley.edu">Matilde Bombardini</a>
     <a href="mailto:k.borusyak@berkeley.edu">Kirill Borusyak</a>
     <a href="mailto:scaldwell@berkeley.edu">Sydnee Caldwell</a>
+    <span class="references__break"></span>
     <a href="mailto:pkline@berkeley.edu">Patrick Kline</a>
     <a href="mailto:schoefer@berkeley.edu">Benjamin Schoefer</a>
   </p>
